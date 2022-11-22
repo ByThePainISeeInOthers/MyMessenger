@@ -4,6 +4,7 @@ using System.Text;
 
 namespace MyMessenger
 {
+    [Serializable]
     public class Message
     {
         public Message()
